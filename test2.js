@@ -1,1 +1,1 @@
-console.log("ini tes 2")
+console.log("ini tes 2 baru")
